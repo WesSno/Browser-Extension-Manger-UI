@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Solution](https://your-solution-url.com)
-- Live Site URL: [View Live Site](https://your-live-site-url.com)
+- Solution URL: [View Solution](https://github.com/WesSno/Browser-Extension-Manger-UI)
+- Live Site URL: [View Live Site](https://kkwatia-extension-board.netlify.app/)
 
 ## My process
 
@@ -43,16 +43,6 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
 
 I learnt how to manage state or store data in react and how to bind methods in a class-based component.
 
