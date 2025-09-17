@@ -128,6 +128,7 @@ ul {
 
 .status-bar ul {
   display: flex;
+  flex-wrap: wrap;
   list-style-type: none;
   gap: 1rem;
 }
@@ -234,7 +235,6 @@ ul {
 
 .remove-btn {
   font-family: "Noto Sans", sans-serif;
-  border: 1px solid var(--neutral--70);
   border-radius: 40px;
   grid-row: 3 / -1;
   grid-column: 1 / 4;
@@ -329,8 +329,8 @@ input:checked + .slider:before {
 }
 
 input:focus + .slider {
-  outline-offset: 2px;
   border: none;
+  outline-offset: 2px;
   outline: 2px solid var(--red--500);
 }
 
